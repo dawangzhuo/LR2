@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "archive": "LR2_submission_20261108_204149_789669.zip",
+  "archive_sha256": "18debb1ecb3bde50af7609c8419f3ec9f0f74be6a459e0ac8da8bb8a5594a74e",
+  "files_verified": 78,
+  "zip_crc": "PASS",
+  "full_extraction": "PASS",
+  "per_file_sha256": "PASS"
+}
